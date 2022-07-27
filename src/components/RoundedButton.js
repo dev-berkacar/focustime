@@ -5,7 +5,7 @@ import { colors } from '../utils/colors';
 export const RoundedButton = ({
   style = {},
   textStyle = {},
-  size = 125,
+  size = 100,
   ...props
 }) => {
   return (

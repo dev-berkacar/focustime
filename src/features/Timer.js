@@ -74,19 +74,16 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   countdown: {
-    flex: 0.5,
     alignItems: 'center',
     justifyContent: 'center',
   },
   timingWrapper: {
-    flex: 0.1,
     flexDirection: 'row',
-    paddingTop: spacing.xxl,
+    paddingTop: spacing.xl,
   },
   buttonWrapper: {
-    flex: 0.3,
     flexDirection: 'row',
-    padding: spacing.md,
+    padding: spacing.lg,
     justifyContent: 'center',
     alignItems: 'center',
   },
